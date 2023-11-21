@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "642099459980",
+    "project_id": "tugas-firebase-7092e",
+    "storage_bucket": "tugas-firebase-7092e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642099459980:android:b0703aae6641b7f92988a9",
+        "android_client_info": {
+          "package_name": "com.neta.tugas_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_5nxHKdrqXTm-Lb140VxmdJg8PNx5P9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

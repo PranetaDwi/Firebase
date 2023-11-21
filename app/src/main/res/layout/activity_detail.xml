@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DetailActivity">
+
+    <TextView
+        android:id="@+id/nameDet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="NETA"
+        android:textColor="@color/black"
+        />
+
+    <TextView
+        android:id="@+id/titleDet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="BANYAK KECOA"
+        android:textColor="@color/black"
+        />
+    <TextView
+        android:id="@+id/detailDet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:text="Ini kecoa banyak banget astaga pengen nangis rasanya tapi gabisa nangis soalnya dah gede"
+        android:textColor="@color/black"
+        />
+
+    <LinearLayout
+        android:layout_marginTop="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/deleteButton"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:backgroundTint="@color/piggy_pink"
+            android:text="Delete"/>
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/updateButton"
+            android:layout_width="200dp"
+            android:layout_height="40dp"
+            android:backgroundTint="@color/pale_cerulean"
+            android:text="Update"/>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
