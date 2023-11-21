@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55882877467",
+    "project_id": "fir-20961",
+    "storage_bucket": "fir-20961.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55882877467:android:c180c8e2dbdb5b2c2b06be",
+        "android_client_info": {
+          "package_name": "com.neta.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRg1k9zDNRS-CRrJ7AlylZvpT4brawAI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
